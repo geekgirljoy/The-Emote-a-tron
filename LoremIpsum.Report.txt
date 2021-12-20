@@ -1,0 +1,108 @@
+[Bot 'LoremIpsum' Emotionary Analysis Report]
+
+Primary Emotions:
+
+
+[Angery]
+2 Angery words.
+Most Angery Word: 'a'
+
+[Anticipatatory Words]
+1 Anticipatatory words.
+Most Anticipatatory Word: 'a'
+
+[Disgusting Words]
+2 Disgusting words.
+Most Disgusting Word: 'tincidunt'
+
+[Joyful Words]
+2 Joyful words.
+Most Joyful Word: 'vel'
+
+
+Emotional Diads:
+
+
+[Aggressiveness_Vengeance Words]
+37 Aggressiveness_Vengeance words.
+Most Aggressiveness_Vengeance Word: 'sit'
+
+[Anxiety_Dread Words]
+32 Anxiety_Dread words.
+Most Anxiety_Dread Word: 'sit'
+
+[Awe_Alarm Words]
+23 Awe_Alarm words.
+Most Awe_Alarm Word: 'sit'
+
+[Contempt_Scorn Words]
+36 Contempt_Scorn words.
+Most Contempt_Scorn Word: 'sit'
+
+[Curiosity Words]
+13 Curiosity words.
+Most Curiosity Word: 'vel'
+
+[Cynicism Words]
+44 Cynicism words.
+Most Cynicism Word: 'sit'
+
+[Despair Words]
+37 Despair words.
+Most Despair Word: 'sit'
+
+[Disapproval_Disappointment Words]
+21 Disapproval_Disappointment words.
+Most Disapproval_Disappointment Word: 'sit'
+
+[Dominance Words]
+28 Dominance words.
+Most Dominance Word: 'sit'
+
+[Guilt_Excitement Words]
+27 Guilt_Excitement words.
+Most Guilt_Excitement Word: 'sit'
+
+[Hope_Fatalism Words]
+23 Hope_Fatalism words.
+Most Hope_Fatalism Word: 'vel'
+
+[Love_Friendliness Words]
+19 Love_Friendliness words.
+Most Love_Friendliness Word: 'vel'
+
+[Morbidness_Derisiveness Words]
+37 Morbidness_Derisiveness words.
+Most Morbidness_Derisiveness Word: 'sit'
+
+[Optimism_Courage Words]
+37 Optimism_Courage words.
+Most Optimism_Courage Word: 'sit'
+
+[Pessimism Words]
+34 Pessimism words.
+Most Pessimism Word: 'sit'
+
+[Pride_Victory Words]
+34 Pride_Victory words.
+Most Pride_Victory Word: 'sit'
+
+[Remorse_Misery Words]
+33 Remorse_Misery words.
+Most Remorse_Misery Word: 'ipsum'
+
+[Sentimentality_Resignation Words]
+13 Sentimentality_Resignation words.
+Most Sentimentality_Resignation Word: 'vel'
+
+[Shame_Prudishness Words]
+37 Shame_Prudishness words.
+Most Shame_Prudishness Word: 'sit'
+
+[Submission_Modesty Words]
+17 Submission_Modesty words.
+Most Submission_Modesty Word: 'orci'
+
+[Unbelief_Shock Words]
+37 Unbelief_Shock words.
+Most Unbelief_Shock Word: 'sit'
